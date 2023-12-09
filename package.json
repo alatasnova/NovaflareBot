@@ -1,0 +1,11 @@
+{
+  "name": "novaflarebot",
+  "version": "0.1.0",
+  "description": "Novaflare design bot",
+  "main": "src/index.js",
+  "author": "alta_s",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  }
+}
